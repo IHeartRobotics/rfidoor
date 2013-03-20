@@ -3,6 +3,8 @@ RFID Door Reader version 0.1
 Copyright (c) 2013, Cosmo Borsky
 All rights reserved.
 
+FreeBSD License
+
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met: 
 
@@ -28,7 +30,7 @@ of the authors and should not be interpreted as representing official policies,
 either expressed or implied, of the FreeBSD Project.
 */
 /*
-Credit to Adafruit Industries regarding readMifare.pde
+Copyright(c) Adafruit Industries regarding readMifare.pde
 Credit to Bill Greiman regarding the SDFat Library
 */
 #include <Adafruit_PN532.h>
