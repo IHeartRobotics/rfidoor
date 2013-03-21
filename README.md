@@ -5,10 +5,10 @@ Arduino RFID door lock
 I Heart Engineering (2013)
 All rights reserved.
 
-=======
+-------
 Copyright(c) Adafruit Industries regarding readMifare.pde
 Credit to Bill Greiman regarding the SDFat Library
-=======
+-------
 
 This is a code utilizing the power of both the Arduino Ethernet and the PN-532 breakout board.
 It reads a MiFare ISO14443A card or tag which has a 4-byte UID and 16-bytes of data.
